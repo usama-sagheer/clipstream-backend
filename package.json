@@ -1,0 +1,16 @@
+{
+  "name": "clipstream-backend",
+  "version": "1.0.0",
+  "description": "A simple video sharing and streaming backend project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "video",
+    "backend",
+    "javascript"
+  ],
+  "author": "Muhammad Usama Sagheer",
+  "license": "ISC"
+}
